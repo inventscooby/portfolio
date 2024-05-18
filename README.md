@@ -114,7 +114,7 @@ Based on the customer segmentation analysis using K-Means clustering, three dist
 
 For any questions or feedback, please contact:
 
-- [Le Phu](mailto:leephu@gmail.com)
+- [Inventscooby](mailto:inventscooby@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/le-phu)
 - [GitHub](https://github.com/inventscooby)
 
